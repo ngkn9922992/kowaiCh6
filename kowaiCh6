@@ -1,15 +1,15 @@
 {
-  "title": "<My Alien Neighbor is Scary>",
-  "description": "<It's a yandere alien cute girl and a disinterested guy who only likes weird looking non-humanoid aliens in a stereotypical high school.>",
-  "artist": "<Atou Rie>",
-  "author": "<Atou Rie>",
-  "cover": "<https://xfs-000.animemark.net/pictures/W600/1f6/1f6f6e1b9c0473a197088bdf6dc5e6dfbf05eda0_647_432_85557.jpeg?acc=mBjeMPRWqzc5ssX-xNx9aA&exp=1627349318>",
+  "title": "My Alien Neighbor is Scary",
+  "description": "It's a yandere alien cute girl and a disinterested guy who only likes weird looking non-humanoid aliens in a stereotypical high school.",
+  "artist": "Atou Rie",
+  "author": "Atou Rie",
+  "cover": "https://xfs-000.animemark.net/pictures/W600/1f6/1f6f6e1b9c0473a197088bdf6dc5e6dfbf05eda0_647_432_85557.jpeg?acc=mBjeMPRWqzc5ssX-xNx9aA&exp=1627349318",
   "chapters": {
-    "<6>": {
-      "title": "<Ménage à Troi>",
-      "volume": "<1>",
+    "6": {
+      "title": "Ménage à Troi",
+      "volume": "1",
       "groups": {
-        "<Horse Deer Scans>": "/proxy/api/imgur/chapter/<W74zBwa>/"
+        "Horse Deer Scans": "/proxy/api/imgur/chapter/W74zBwa/"
       },
       "last_updated": "1616368746"
     }
