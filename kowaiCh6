@@ -7,9 +7,17 @@
   "chapters": {
     "6": {
       "title": "Ménage à Troi",
-      "volume": "1",
+      "volume": "6",
       "groups": {
         "Horse Deer Scans": "/proxy/api/imgur/chapter/W74zBwa/"
+      },
+      "last_updated": "1616368746"
+    },
+    "13": {
+      "title": "Peak Performance",
+      "volume": "13",
+      "groups": {
+        "Horse Deer Scans": "/proxy/api/imgur/chapter/yXYROVF/"
       },
       "last_updated": "1616368746"
     }
